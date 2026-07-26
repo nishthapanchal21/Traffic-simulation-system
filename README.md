@@ -222,7 +222,4 @@ This project demonstrates:
 
 
 
-B.Tech Computer Science Engineering
-
----
 
