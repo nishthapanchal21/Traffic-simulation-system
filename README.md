@@ -66,33 +66,33 @@ TrafficSimulation/
 
 # OOP Concepts Implemented
 
-### ✔ Abstraction
+### Abstraction
 - `Vehicle` is an abstract class.
 
-### ✔ Inheritance
+### Inheritance
 - `Car`
 - `Truck`
 - `EmergencyVehicle`
 inherit from `Vehicle`.
 
-### ✔ Polymorphism
+### Polymorphism
 - Method overriding using `getType()`.
 - Different vehicle objects handled using the parent `Vehicle` reference.
 
-### ✔ Encapsulation
+### Encapsulation
 - Private fields with controlled access through methods.
 
-### ✔ Interface
+### Interface
 - `TrafficStrategy` interface.
 - Implemented by:
   - `FixedTimeStrategy`
   - `AdaptiveStrategy`
 
-### ✔ Exception Handling
+### Exception Handling
 - Custom exception:
   - `TrafficException`
 
-### ✔ Multithreading
+### Multithreading
 - `SimulationEngine` extends `Thread` to run the traffic simulation independently.
 
 ---
