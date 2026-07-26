@@ -220,11 +220,7 @@ This project demonstrates:
 - Real-time sensor simulation
 - Performance analytics dashboard
 
----
 
-# Author
-
-**Nishtha Panchal**
 
 B.Tech Computer Science Engineering
 
