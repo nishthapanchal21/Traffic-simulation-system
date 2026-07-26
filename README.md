@@ -1,30 +1,30 @@
-# 🚦 Smart Traffic Simulation System
+# Smart Traffic Simulation System
 
 A Java-based Smart Traffic Simulation System that demonstrates real-world traffic management using Object-Oriented Programming principles and the Strategy Design Pattern. The system simulates vehicles, traffic lights, emergency vehicle prioritization, and different traffic light control strategies.
 
 ---
 
-## 📌 Features
+## Features
 
-- 🚗 Simulates different types of vehicles
+- Simulates different types of vehicles
   - Car
   - Truck
   - Emergency Vehicle (Ambulance)
 
-- 🚦 Traffic Light Management
+- Traffic Light Management
   - Fixed Time Strategy
   - Adaptive Strategy based on traffic density
 
-- 🚑 Emergency Vehicle Priority
+- Emergency Vehicle Priority
   - Automatically detects emergency vehicles
   - Overrides traffic signal to GREEN
   - Allows emergency vehicles to pass first
 
-- 🛣️ Road Management
+- Road Management
   - Vehicle count tracking
   - Traffic density monitoring
 
-- ⏱️ Real-time Simulation
+- Real-time Simulation
   - 15-second traffic simulation
   - Random vehicle generation
   - Waiting time calculation
@@ -32,7 +32,7 @@ A Java-based Smart Traffic Simulation System that demonstrates real-world traffi
 
 ---
 
-# 🏗️ Project Structure
+# Project Structure
 
 ```
 TrafficSimulation/
@@ -53,7 +53,7 @@ TrafficSimulation/
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 - Java
 - Object-Oriented Programming (OOP)
@@ -64,7 +64,7 @@ TrafficSimulation/
 
 ---
 
-# 📚 OOP Concepts Implemented
+# OOP Concepts Implemented
 
 ### ✔ Abstraction
 - `Vehicle` is an abstract class.
@@ -97,7 +97,7 @@ inherit from `Vehicle`.
 
 ---
 
-# 🚦 Traffic Light Strategies
+# Traffic Light Strategies
 
 ## 1. Fixed Time Strategy
 
@@ -120,7 +120,7 @@ Benefits:
 
 ---
 
-# 🚑 Emergency Vehicle Handling
+# Emergency Vehicle Handling
 
 Whenever an emergency vehicle is detected:
 
@@ -131,7 +131,7 @@ Whenever an emergency vehicle is detected:
 
 ---
 
-# 📊 Simulation Statistics
+# Simulation Statistics
 
 At the end of the simulation, the system displays:
 
@@ -143,7 +143,7 @@ At the end of the simulation, the system displays:
 
 ---
 
-# ▶️ How to Run
+# How to Run
 
 ### Compile
 
@@ -159,7 +159,7 @@ java Main
 
 ---
 
-# 📋 Sample Output
+# Sample Output
 
 ```
 ========================================
@@ -195,7 +195,7 @@ Average Wait Time: 2 seconds
 
 ---
 
-# 🎯 Learning Outcomes
+# Learning Outcomes
 
 This project demonstrates:
 
@@ -209,7 +209,7 @@ This project demonstrates:
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 - GUI using JavaFX or Swing
 - Multiple roads and intersections
@@ -222,7 +222,7 @@ This project demonstrates:
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Nishtha Panchal**
 
