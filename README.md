@@ -230,4 +230,3 @@ B.Tech Computer Science Engineering
 
 ---
 
-## ⭐ If you found this project helpful, consider giving it a star!
